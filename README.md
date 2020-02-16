@@ -16,7 +16,7 @@ HOW TO USE MacChanger?
 
 -m , --mac ---> mac address  (ff:ff:ff:ff:ff:ff)
 
-(write ifconfig and mac address  for interface in terminal or command line)
+(write ifconfig for mac address  and interface in terminal or command line)
 
 
 In Terminal;
